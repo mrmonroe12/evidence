@@ -1,5 +1,14 @@
 # e2e-base-path
 
+## 0.0.31
+
+### Patch Changes
+
+- cc197d2e7: Remove references to Evidence Cloud
+- Updated dependencies [cc197d2e7]
+  - @evidence-dev/core-components@5.4.2
+  - @evidence-dev/evidence@40.1.8
+
 ## 0.0.30
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @evidence-dev/evidence
 
+## 40.1.8
+
+### Patch Changes
+
+- Updated dependencies [cc197d2e7]
+  - @evidence-dev/sdk@4.0.2
+
 ## 40.1.7
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @evidence-dev/component-utilities
 
+## 4.0.13
+
+### Patch Changes
+
+- Updated dependencies [cc197d2e7]
+  - @evidence-dev/sdk@4.0.2
+
 ## 4.0.12
 
 ### Patch Changes

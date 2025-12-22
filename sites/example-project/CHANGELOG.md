@@ -1,5 +1,16 @@
 # @evidence-dev/components
 
+## 3.5.56
+
+### Patch Changes
+
+- cc197d2e7: Remove references to Evidence Cloud
+- Updated dependencies [cc197d2e7]
+  - @evidence-dev/sdk@4.0.2
+  - @evidence-dev/core-components@5.4.2
+  - @evidence-dev/component-utilities@4.0.13
+  - @evidence-dev/tailwind@3.1.4
+
 ## 3.5.55
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @evidence-dev/sdk
 
+## 4.0.2
+
+### Patch Changes
+
+- cc197d2e7: Remove references to Evidence Cloud
+
 ## 4.0.1
 
 ### Patch Changes
