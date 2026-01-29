@@ -751,7 +751,8 @@
 			if (swapXY) {
 				verticalAxisConfig = {
 					type: xType,
-					inverse: 'true',
+					data: xType === 'category' ? xDistinct : undefined,
+					inverse: true,
 					splitLine: {
 						show: xGridlines
 					},
